@@ -1,4 +1,4 @@
-require libva-${PV}.inc
+require libva.inc
 
 LIC_FILES_CHKSUM = "file://COPYING;md5=2e48940f94acb0af582e5ef03537800f"
 SRC_URI[md5sum] = "aef13eb48e01a47d1416d97462a22a11"
